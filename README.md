@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Minghua Xie
 - 👀 I’m interested in quantitative modeling and software development in the financial services industry
-- 🌱 I’m currently working at PwC New York as a financial engineer with focus on derivatives modeling and machine learning applications
+- 🌱 I’m currently working at Bloomberg New York as a software engineer with focus on derivatives implied volatilities applications
 - 💞️ I’m looking to collaborate on cutting-edge financial applications
 - 📫 Please reach me at henryxie16@outlook.com
 
